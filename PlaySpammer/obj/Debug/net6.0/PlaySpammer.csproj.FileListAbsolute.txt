@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\PlaySpammer\PlaySpammer\obj\Debug\net6.0\PlaySpammer.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\PlaySpammer\PlaySpammer\obj\Debug\net6.0\PlaySpammer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\PlaySpammer\PlaySpammer\obj\Debug\net6.0\PlaySpammer.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\PlaySpammer\PlaySpammer\obj\Debug\net6.0\PlaySpammer.AssemblyInfo.cs
+C:\Users\User\source\repos\PlaySpammer\PlaySpammer\obj\Debug\net6.0\PlaySpammer.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PlaySpammer\PlaySpammer\bin\Debug\net6.0\PlaySpammer.exe
+C:\Users\User\source\repos\PlaySpammer\PlaySpammer\bin\Debug\net6.0\PlaySpammer.deps.json
+C:\Users\User\source\repos\PlaySpammer\PlaySpammer\bin\Debug\net6.0\PlaySpammer.runtimeconfig.json
+C:\Users\User\source\repos\PlaySpammer\PlaySpammer\bin\Debug\net6.0\PlaySpammer.dll
+C:\Users\User\source\repos\PlaySpammer\PlaySpammer\bin\Debug\net6.0\PlaySpammer.pdb
+C:\Users\User\source\repos\PlaySpammer\PlaySpammer\obj\Debug\net6.0\PlaySpammer.dll
+C:\Users\User\source\repos\PlaySpammer\PlaySpammer\obj\Debug\net6.0\refint\PlaySpammer.dll
+C:\Users\User\source\repos\PlaySpammer\PlaySpammer\obj\Debug\net6.0\PlaySpammer.pdb
+C:\Users\User\source\repos\PlaySpammer\PlaySpammer\obj\Debug\net6.0\PlaySpammer.genruntimeconfig.cache
+C:\Users\User\source\repos\PlaySpammer\PlaySpammer\obj\Debug\net6.0\ref\PlaySpammer.dll
+C:\Users\User\source\repos\PlaySpammer\PlaySpammer\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\User\source\repos\PlaySpammer\PlaySpammer\obj\Debug\net6.0\PlaySpammer.csproj.CopyComplete
